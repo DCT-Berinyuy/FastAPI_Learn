@@ -37,3 +37,12 @@ Data "parsing"
 Data validation
 API annotation and automatic documentation
 And you only have to declare them once.
+
+# Query Parameters
+...the query parameters are:
+
+skip: with a value of 0
+limit: with a value of 10
+
+# Request Body¶
+  A request body is data sent by the client to your API. A response body is the data your API sends to the client.
